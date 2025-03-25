@@ -1,4 +1,4 @@
-# **The Ultimate Step-by-Step DevOps Mastery Guide** 🚀
+# DevOps Mastery Roadmap 🚀
 
 This guide provides a **structured, milestone-based roadmap** for mastering DevOps, from beginner to expert level. Follow this step-by-step plan to build solid DevOps skills and track your progress.
 
